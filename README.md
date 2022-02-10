@@ -1,4 +1,9 @@
-### Hi there 👋
+### Greetings 👋
+
+***There is no place like 127.0.0.1***
+
+***And things are not always #000000 or #FFFFFF***
+
 
 <!--
 **MRTater/MRTater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
