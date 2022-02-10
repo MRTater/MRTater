@@ -4,7 +4,7 @@
 > ***And things are not always #000000 or #FFFFFF***
 
 You can call me **Lawrence**, also known as **MrTater** in most games.
-* I can be reached through **[email]**(lyy000804@gmail.com).
+* I can be reached through **[email](lyy000804@gmail.com)**.
 * Please do not ask me what are the meanings of the above two jokes.
 
 [![MRTater's github stats](https://github-readme-stats.vercel.app/api?username=MRTater&count_private=true&show_icons=true&theme=radical&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
