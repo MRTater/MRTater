@@ -6,6 +6,7 @@
 You can call me **Lawrence**. 
 * I'm currently studying in The Chinese University of Hong Kong major in Computer Science.
 * I can be reached through **[email](lyy000804@gmail.com)**.
+* This is my **[personal page](https://mrtater.github.io/)** (under construction).
 
 
 [![MRTater's github stats](https://github-readme-stats.vercel.app/api?username=MRTater&count_private=true&show_icons=true&theme=radical&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
