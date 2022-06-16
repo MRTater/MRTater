@@ -5,7 +5,7 @@
 
 You can call me **Lawrence**. 
 * I'm currently studying in The Chinese University of Hong Kong major in Computer Science.
-* I can be reached through **[email](lyy000804@gmail.com)**.
+* I can be reached through **lyy000804 [at] gmail.com**.
 * This is my **[personal page](https://mrtater.github.io/)** (under construction).
 
 
