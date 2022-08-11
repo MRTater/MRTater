@@ -4,7 +4,7 @@
 
 **About me:**  
 * Internship as Computer Vision Algorithm Engineer at **[SmartMore](https://smartmore.global/)**
-* BSc. Computer Science from Chinese University of Hong Kong
+* BSc. Computer Science from **the Chinese University of Hong Kong**
 * I can be reached through **lyy000804 [at] gmail.com**
 * This is my **[personal page](https://mrtater.github.io/)** (under construction)
 
