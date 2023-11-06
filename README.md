@@ -3,8 +3,8 @@
 > ***And things are not always #000000 or #FFFFFF***
 
 **About me:**  
-* Researcher Intern at **Huawei Hong Kong Research Center - 2012 Labs** (05.23 - 08.23)
-* Computer Vision Algorithm Intern Engineer at **[SmartMore](https://smartmore.global/)** (06.22 - 11.22)
+* Researcher Intern at **Huawei Hong Kong Research Center - 2012 Labs** (05.2023 - 08.2023)
+* Computer Vision Algorithm Intern Engineer at **[SmartMore](https://smartmore.global/)** (06.2022 - 11.2022)
 * Msc. Artificial Intelligence from **Nanyang Technological University**
 * BSc. Computer Science from **The Chinese University of Hong Kong**
 * I can be reached through **lyy000804 [at] gmail.com**
