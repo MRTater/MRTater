@@ -3,8 +3,9 @@
 > ***And things are not always #000000 or #FFFFFF***
 
 **About me:**  
-* Research Intern at **Huawei Hong Kong Research Center - 2012 Labs** (05.2023 - 08.2023)
-* Computer Vision Algorithm Engineer Intern at **[SmartMore](https://smartmore.global/)** (06.2022 - 11.2022)
+* Currently working as AI Research Engineer at **[Huawei Singapore Research Center](https://www.huawei.com/en/)**
+* Research Intern at **Huawei Hong Kong Research Center** 
+* Computer Vision Algorithm Engineer Intern at **[SmartMore](https://smartmore.global/)** 
 * Msc. Artificial Intelligence from **Nanyang Technological University**
 * BSc. Computer Science from **The Chinese University of Hong Kong**
 * I can be reached through **lyy000804 [at] gmail.com**
