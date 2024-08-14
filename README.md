@@ -3,13 +3,9 @@
 > ***And things are not always #000000 or #FFFFFF***
 
 **About me:**  
-* Currently working as AI Research Engineer at **[Huawei Singapore Research Center](https://www.huawei.com/en/)**
-* Research Intern at **Huawei Hong Kong Research Center** 
-* Computer Vision Algorithm Engineer Intern at **[SmartMore](https://smartmore.global/)** 
-* Msc. Artificial Intelligence from **Nanyang Technological University**
-* BSc. Computer Science from **The Chinese University of Hong Kong**
-* I can be reached through **lyy000804 [at] gmail.com**
-* This is my **[personal page](https://mrtater.github.io/)** (under construction)
+* :mailbox: I can be reached through **lawrence.luoyy [at] gmail.com**
+* :mortar_board: This is my **[personal page](https://mrtater.github.io/)**! Have a look!
+* :briefcase: Currently working as **AI Research Engineer**
 
 **Languages and tools:**  
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
@@ -25,4 +21,9 @@
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
 
 **My Github stats:**  
-[![MRTater's github stats](https://github-readme-stats.vercel.app/api?username=MRTater&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![MRTater's github stats](https://github-readme-stats.vercel.app/api?username=MRTater&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)  
+
+<a href="https://github.com/MRTater/">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRTater&layout=compact&theme=dracula&langs_count=6&exclude_repo=lpsolve-android" />
+</a>
+
